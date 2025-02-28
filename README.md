@@ -4,9 +4,18 @@
 This project aims to develop a web application that closely mimics the user interface and core functionalities of Google Sheets, focusing on:  
 - Mathematical and data quality functions  
 - Seamless data entry  
-- Key UI interactions  
+- Key UI interactions 
 
 ---
+
+## Tech Stack  
+
+- **Frontend:** React, Next.js, Tailwind CSS  
+- **Backend:** Node.js, Express.js, Prisma  
+- **Database:** PostgreSQL  
+
+---
+
 
 ## Features  
 
@@ -88,13 +97,6 @@ The application supports saving and retrieving spreadsheet data.
 
 ---
 
-## Tech Stack  
-
-- **Frontend:** React, Next.js, Tailwind CSS  
-- **Backend:** Node.js, Express.js, Prisma  
-- **Database:** PostgreSQL  
-
----
 
 
 
